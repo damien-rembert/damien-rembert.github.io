@@ -1,0 +1,10 @@
+img {
+    color: red;
+    width: 100px;
+    border: 1px solid black;
+    vertical-align: middle;
+  }
+
+body {
+    text-align: center;
+}
